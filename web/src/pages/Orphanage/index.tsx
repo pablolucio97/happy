@@ -27,7 +27,7 @@ export default function Orphanage() {
 
            <Map
             center={[-19.8266551,-43.1262581]}
-            zoom={13}
+            zoom={15}
             style={{width: '100%', height: '100%'}}
            >
             <TileLayer url={`https://api.mapbox.com/styles/v1/mapbox/light-v10/tiles/{z}/{x}/{y}@2x?access_token=${process.env.REACT_APP_MAPBOX_TOKEN}`} />
