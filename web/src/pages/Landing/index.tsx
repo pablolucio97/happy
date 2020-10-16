@@ -21,7 +21,7 @@ export default function Landing() {
           <strong>João Monlevade</strong>
           <span>Minas Gerais</span>
         </div>
-          <Link to='/orphanage' className='enter-app'>
+          <Link to='/app' className='enter-app'>
             <FiArrowRight size={26} color='#222'/>
           </Link>
         </div>
