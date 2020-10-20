@@ -17,7 +17,7 @@ export default {
         }
     },
 
-    renderManys(orphanges: Orphanage[]){
-        return orphanges.map(orphanage => this.render(orphanage))
+    renderManys(orphanages: Orphanage[]){
+        return orphanages.map(orphanage => this.render(orphanage))
     }
 }
