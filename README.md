@@ -28,7 +28,7 @@ A lista completa de tecnologias e bibliotecas externas pode ser visualizada nos 
 ## :wrench: Instalação
 
 ### 1) Clone este repositório
- git clone https://github.com/pablolucio97/books-collection.git
+ git clone https://github.com/pablolucio97/happy
 
 ### 2) Navegue até a pasta api e execute os seguintes comandos:
  npm install
