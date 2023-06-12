@@ -3,11 +3,8 @@
 
 ### Happy é uma aplicação web/mobile que permite criar e visualizar orfanatos.
 
-<p align="center">
-  <img alt="APM" src="https://img.shields.io/apm/l/vim-mode"> <img alt="PyPI - Status" src="https://img.shields.io/pypi/status/Django">
-</p>
 
-![img](https://i.ibb.co/QcwKk1Z/smartmockups-kghx1cgt.png)
+![image](https://i.ibb.co/QcwKk1Z/smartmockups-kghx1cgt.png)
 
 ## :rocket: Tecnologias utilizadas:
 
